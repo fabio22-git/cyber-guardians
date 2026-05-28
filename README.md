@@ -49,4 +49,4 @@ Questo progetto documenta un'attività intensiva di analisi forense, triage sist
 
 ## 📂 Risorse del Progetto
 
-*   📄 **Report Tecnico Finale - Malware Analysis & Incident Investigation (PDF):** Documentazione SOC completa di tutte le phases di assessment, stringhe estratte, timeline d'infezione, indicatori IOC/IOA mappati e piano dettagliato di remediation applicato tramite snapshot.
+*   📄 [**Report Tecnico Finale - Malware Analysis & Incident Investigation (PDF)**](Report_Malware_Analysis.pdf): Documentazione SOC completa di tutte le fasi di assessment, stringhe estratte, timeline d'infezione, indicatori IOC/IOA mappati e piano dettagliato di remediation applicato tramite snapshot.
