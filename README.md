@@ -1,6 +1,7 @@
 # ☣️ Cyber Guardians: Malware Analysis Operativa & Host-Based Hunting
 
 **Team:** Cyber Guardians | **Contesto:** Build Week 3 @ EPICODE Institute of Technology
+
 Questo progetto documenta un'attività intensiva di analisi forense, triage sistemistico e threat hunting host-based. L'obiettivo è stato quello di analizzare, monitorare e mitigare le minacce poste da un campione malevolo a runtime, emulando i processi di investigazione tipici di un SOC Tier 1 al fine di mappare le tecniche di persistenza ed evasione e procedere alla bonifica dell'host.
 
 ---
