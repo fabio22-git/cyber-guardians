@@ -14,8 +14,14 @@ Questo progetto documenta un'attività intensiva di analisi forense, triage sist
 
 ## 🛠️ Tecnologie e Strumenti Utilizzati
 
-<!-- INCOLLA QUI I LOGHI DEI TOOL COME HAI FATTO NELLA BW2 -->
-<!-- Esempio: FlareVM, Process Monitor, YARA, Splunk/Kibana, Wireshark, Immunity/Mona -->
+<p align="left">
+  <img src="https://img.shields.io/badge/FlareVM-0052CC?style=for-the-badge&logo=windows&logoColor=white" alt="FlareVM" />
+  <img src="https://img.shields.io/badge/ProcMon-000000?style=for-the-badge&logo=windows-terminal&logoColor=green" alt="ProcMon" />
+  <img src="https://img.shields.io/badge/YARA-2699FB?style=for-the-badge&logo=google&logoColor=white" alt="YARA" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=F7A800" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+</p>
 
 ---
 
