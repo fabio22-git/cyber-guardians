@@ -18,8 +18,8 @@ Questo progetto documenta un'attività intensiva di analisi forense, triage sist
   <img src="https://img.shields.io/badge/FLARE_VM-E6194B?style=for-the-badge&logo=windows&logoColor=white" alt="FlareVM" />
   <img src="https://img.shields.io/badge/PROCMON-000000?style=for-the-badge&logo=windows-terminal&logoColor=00FF00" alt="ProcMon" />
   <img src="https://img.shields.io/badge/YARA_ENGINE-34A853?style=for-the-badge&logo=google-cloud&logoColor=white" alt="YARA" />
-  <img src="https://img.shields.io/badge/SPLUNK_SIEM-F7A800?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk" />
   <img src="https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/SPLUNK_SIEM-F7A800?style=for-the-badge&logo=splunk&logoColor=black" alt="Splunk" />
   <img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
 </p>
 
